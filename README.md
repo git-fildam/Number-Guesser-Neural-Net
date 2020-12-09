@@ -8,7 +8,7 @@ You can watch this video on how the program works: https://www.youtube.com/watch
 - Python 3.6 or below
 - Pygame
 - TKinter
-- Tensroflow
+- Tensorflow
 - Keras
 - Numpy
 - Matplotlib
